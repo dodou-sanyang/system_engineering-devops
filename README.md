@@ -1,1 +1,1 @@
-# system_engineering-devops
+Repository for System Engineering and DevOps tasks.
