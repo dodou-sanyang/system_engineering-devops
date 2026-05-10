@@ -1,1 +1,1 @@
-Task 0: Create an alias script
+Scripts for learning about shell variables and expansions.

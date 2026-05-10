@@ -1,1 +1,1 @@
-Repository for System Engineering and DevOps tasks.
+This repository contains all my system engineering and devops projects.
