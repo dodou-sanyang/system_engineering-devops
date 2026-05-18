@@ -1,1 +1,3 @@
-This repository contains all my system engineering and devops projects.
+# System Engineering & DevOps - Processes and Signals
+
+This directory contains scripts for learning how Linux processes, PIDs, and signals operate.
