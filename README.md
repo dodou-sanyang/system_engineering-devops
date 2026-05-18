@@ -1,3 +1,3 @@
 # System Engineering & DevOps - Processes and Signals
 
-This directory contains scripts for learning how Linux processes, PIDs, and signals operate.
+This repository contains school projects covering Linux systems engineering, scripting, devops processes, and kernel signal management.
