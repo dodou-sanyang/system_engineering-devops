@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# A Bash script that displays its own PID
+
+echo $$
+EOFcat << 'EOF' > 0-what-is-my-pid
+#!/usr/bin/env bash
+# A Bash script that displays its own PID
+
+echo $$
